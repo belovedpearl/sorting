@@ -1,0 +1,22 @@
+body{
+    text-align: center;
+    background: linear-gradient(45deg, blue, orange, darkred );
+}
+label{
+    font-size: x-large;
+}
+input{
+    width: 30%;
+    height: 30px;
+}
+button{
+    padding: 10px;
+    margin: 20px;
+    border-radius: 10px;
+    background-color: lightblue;
+    border: none;
+    font-weight: bold;
+}
+h2{
+    padding: 30px;
+}
